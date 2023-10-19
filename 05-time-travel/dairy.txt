@@ -1,0 +1,3 @@
+January 1: New year, new beginnings.
+January 2: Started a learning Git.
+
