@@ -1,2 +1,2 @@
-# git-game-workshop
-A game to practice Git commands
+# Git Command Adventures
+A few challenges to practice Git commands!
